@@ -1,0 +1,16 @@
+.loadmore {
+  background-color: #acd0d6;
+  font-family: "Ibm Plex Mono";
+  color: #fff;
+  font-size: 18px;
+  padding: 6px 18px;
+  font-weight: 500;
+  border-radius: 2px;
+  display: block;
+  /* text-align: center; */
+  margin-right: auto;
+  margin-left: auto;
+  &:hover {
+    cursor: pointer;
+  }
+}
